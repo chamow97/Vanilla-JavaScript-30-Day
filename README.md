@@ -14,7 +14,7 @@
 	<h2>Day 2 - Analog Clock</h2>
 	<br>
 	<h4>Screenshot</h4>
-	<img src="Screenshot/scree2.png" alt="Screenshot">
+	<img src="Screenshot/screen2.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
 	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day2/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day2/</a> to see its working :)
