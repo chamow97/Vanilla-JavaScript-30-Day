@@ -1,0 +1,51 @@
+@keyframes headingAnimation{
+  0%{color: red;}
+  25%{color: magenta;}
+  50%{color: green;}
+  100%{color: blue;}
+}
+body{
+  background: url('assets/background.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.keys{
+  margin: 400px 0px 0px 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.key{
+  transition: 0.07s all;
+  background-color: #ffffff;
+  margin: 10px 10px 10px 10px;
+  border: 2px solid black;
+  border-radius: 2px;
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+}
+.playing{
+  transform: scale(1.1);
+  border-color: #00ff55;
+  box-shadow: 0 0 10px #00ff55;
+}
+kbd{
+  display: block;
+  font-size: 40px;
+}
+.sound{
+  color: #ff0000;
+}
+h1{
+  font-size: 60px;
+  text-shadow: 1px 1px #fff;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  animation-name: headingAnimation;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
