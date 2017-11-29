@@ -1,0 +1,23 @@
+html{
+  background-color: #193549;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #ffffff;
+}
+:root{
+  --base: #ff0000;
+  --spacing: 50px;
+  --blur: 10px;
+}
+img{
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
+.highlight{
+  color: var(--base);
+}
+input{
+  width: 100px;
+}
