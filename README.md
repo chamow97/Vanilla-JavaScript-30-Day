@@ -28,4 +28,19 @@
 	<h4>Working</h4>
 	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day3/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day3/</a> to see its working :)
 	<br>
+	<br>
+	<h2>Day 4 - Array Cardio Day 1</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen4.png" alt="Screenshot">
+	<br>
+	<br>
+	<h2>Day 5 - Flex Panels Image Gallery</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen5.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day5/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day5/</a> to see its working :)
+	<br>
 </center>
