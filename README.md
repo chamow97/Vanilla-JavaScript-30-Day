@@ -43,4 +43,12 @@
 	<h4>Working</h4>
 	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day5/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day5/</a> to see its working :)
 	<br>
+	<h2>Day 6 - Ajax Type Ahead</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen6.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day6/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day6/</a> to see its working :)
+	<br>
 </center>
