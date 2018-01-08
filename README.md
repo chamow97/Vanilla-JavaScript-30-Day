@@ -56,4 +56,12 @@
 	<h4>Screenshot</h4>
 	<img src="Screenshot/screen7.png" alt="Screenshot">
 	<br>
+	<h2>Day 8 - Fun with HTML 5 Canvas</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen8.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8s/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8/</a> to see its working :)
+	<br>
 </center>
