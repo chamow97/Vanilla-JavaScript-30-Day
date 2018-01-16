@@ -62,6 +62,6 @@
 	<img src="Screenshot/screen8.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8s/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8/</a> to see its working :)
 	<br>
 </center>
