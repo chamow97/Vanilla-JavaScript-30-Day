@@ -8,7 +8,7 @@
 	<img src="Screenshot/screen1.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day1/" target="_blank">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day1/</a> to see its working :)
+	Go to <a href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-1/" target="_blank">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-1/</a> to see its working :)
 	<br>
 	<br>
 	<h2>Day 2 - Analog Clock</h2>
@@ -17,7 +17,7 @@
 	<img src="Screenshot/screen2.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day2/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day2/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-2/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-2/</a> to see its working :)
 	<br>
 	<br>
 	<h2>Day 3 - Playing with CSS variables and JS</h2>
@@ -26,7 +26,7 @@
 	<img src="Screenshot/screen3.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day3/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day3/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-3/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-3/</a> to see its working :)
 	<br>
 	<br>
 	<h2>Day 4 - Array Cardio Day 1</h2>
@@ -41,7 +41,7 @@
 	<img src="Screenshot/screen5.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day5/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day5/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-5/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-5/</a> to see its working :)
 	<br>
 	<h2>Day 6 - Ajax Type Ahead</h2>
 	<br>
@@ -49,7 +49,7 @@
 	<img src="Screenshot/screen6.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day6/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day6/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-6/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-6/</a> to see its working :)
 	<br>
 	<h2>Day 7 - Array Cardio Day - 2</h2>
 	<br>
@@ -62,7 +62,7 @@
 	<img src="Screenshot/screen8.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day8/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-8/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-8/</a> to see its working :)
 	<br>
 	<h2>Day 9 - Dev Tools to Learn</h2>
 	<br>
@@ -70,7 +70,7 @@
 	<img src="Screenshot/screen9.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day9/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day9/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-9/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-9/</a> to see its working :)
 	<br>
 	<h2>Day 10 - Hold Shift to Check Multiple Boxes</h2>
 	<br>
@@ -78,7 +78,7 @@
 	<img src="Screenshot/screen10.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day10/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day10/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-10/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-10/</a> to see its working :)
 	<br>
 	<h2>Day 11 - Custom HTML Video Player</h2>
 	<br>
@@ -86,7 +86,7 @@
 	<img src="Screenshot/screen11.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day11/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day11/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-11/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-11/</a> to see its working :)
 	<br>
 	<h2>Day 12 - Key Sequence Detection</h2>
 	<br>
@@ -94,5 +94,5 @@
 	<img src="Screenshot/screen12.png" alt="Screenshot">
 	<br>
 	<h4>Working</h4>
-	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day12/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day12/</a> to see its working :)
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-12/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-12/</a> to see its working :)
 </center>
