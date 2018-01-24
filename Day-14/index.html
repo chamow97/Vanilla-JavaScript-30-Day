@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JS Reference VS Copy</title>
+</head>
+<body>
+
+  <script>
+    // start with strings, numbers and booleans
+
+    // Let's say we have an array
+    const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
+
+    // and we want to make a copy of it.
+
+    // You might think we can just do something like this:
+
+    // however what happens when we update that array?
+
+    // now here is the problem!
+    const temp = players;
+    temp[3] = 'Hey!';
+    console.log(players, temp);
+
+    const temp1 = players.slice();
+    temp1[3] = 'asdad';
+    console.log(players, temp1);
+    // oh no - we have edited the original array too!
+
+    // Why? It's because that is an array reference, not an array copy. They both point to the same array!
+
+    // So, how do we fix this? We take a copy instead!
+    const temp2 = [].concat(players);
+    temp2[3] = 'dad';
+    console.log(players, temp2);
+    // one way
+
+
+    const temp3 = [...players];
+    temp3[3] = 'asd';
+    console.log(players, temp3);
+    // or create a new array and concat the old one in
+
+    // or use the new ES6 Spread
+    const temp4 = Array.from(players);
+    // now when we update it, the original one isn't changed
+    temp4[3] = 'asdfff';
+    console.log(players, temp4);
+    // The same thing goes for objects, let's say we have a person object
+
+    // with Objects
+    const person = {
+      name: 'Wes Bos',
+      age: 80
+    };
+
+    const tempObj = Object.assign({}, person, {number: 99, age: 121});
+    console.log(tempObj);
+    // and think we make a copy:
+    const chamow = {
+        name: 'ChaMow',
+        age: 20,
+        social:{
+            github: 'chamow97',
+            portfolio: 'chamow97.github.io'
+        }
+    };
+
+    console.log(chamow);
+    const dev1 = Object.assign({}, chamow);
+    dev1.social.github = 'none';
+    console.log(chamow, dev1);
+    // how do we take a copy instead?
+    const dirtyCloneDeep = JSON.parse(JSON.stringify(chamow));
+    dirtyCloneDeep.social.github = 'asdasd';
+    console.log(chamow, dirtyCloneDeep);
+    // We  will hopefully soon see the object ...spread
+
+     // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+
+  </script>
+
+</body>
+</html>
