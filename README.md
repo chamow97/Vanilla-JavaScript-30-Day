@@ -95,4 +95,148 @@
 	<br>
 	<h4>Working</h4>
 	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-12/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-12/</a> to see its working :)
+	<br>
+	<h2>Day 13 - Slide In on Scroll</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen13.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-13/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-13/</a> to see its working :)
+	<br>
+	<h2>Day 14 - Object and Arrays</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen14.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-14/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-14/</a> to see its working :)
+	<br>
+	<h2>Day 15 - Local Storage and Event Delegation</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen15.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-15/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-15/</a> to see its working :)<br>
+	<br>
+	<h2>Day 16 - CSS Text Shadow Mouse Move effect</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen16.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-16/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-16/</a> to see its working :)
+	<br>
+	<h2>Day 17 - Sorting Band Names without articles</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen17.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-17/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-17/</a> to see its working :)
+	<br>
+	<h2>Day 18 - Tally String Times with Reduce</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen18.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-18/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-18/</a> to see its working :)
+	<br>
+	<h2>Day 19 - Webcam Fun</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen19.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-19/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-19/</a> to see its working :)
+	<br>
+	<h2>Day 20 - Speech Detection</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen20.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-20/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-20/</a> to see its working :)
+	<br>
+	<h2>Day 21 - Geolocation</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen21.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-21/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-21/</a> to see its working :)
+	<br>
+	<h2>Day 22 - Follow Along Link Highlighter</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen22.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-22/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-22/</a> to see its working :)
+	<br>
+	<h2>Day 23 - Speech Synthesis</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen23.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-23/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-23/</a> to see its working :)
+	<br>
+	<h2>Day 24 - Sticky Nav</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen24.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-24/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-24/</a> to see its working :)
+	<br>
+	<h2>Day 25 - Event Capture, Propagation, Bubbling and Once</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen25.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-25/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-25/</a> to see its working :)
+	<br>
+	<h2>Day 26 - Stripe Follow Along Nav</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen26.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-26/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-26/</a> to see its working :)
+	<br>
+	<h2>Day 27 - Click and Drag</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen27.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-27/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-27/</a> to see its working :)
+	<br>
+	<h2>Day 28 - Video Speed Controller</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen28.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-28/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-28/</a> to see its working :)
+	<br>
+	<h2>Day 29 - Countdown Timer</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen29.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-29/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-29/</a> to see its working :)
+	<br>
+	<h2>Day 30 - Whack A Mole</h2>
+	<br>
+	<h4>Screenshot</h4>
+	<img src="Screenshot/screen30.png" alt="Screenshot">
+	<br>
+	<h4>Working</h4>
+	Go to <a target="_blank" href="https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-30/">https://chamow97.github.io/Vanilla-JavaScript-30-Day/Day-30/</a> to see its working :)
 </center>
